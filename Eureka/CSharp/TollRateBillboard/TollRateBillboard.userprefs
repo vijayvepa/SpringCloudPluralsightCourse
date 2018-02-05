@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{BABD78C6-D2E1-49C4-B588-D3C94C61912D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/About.cshtml">
+    <Files>
+      <File FileName=".bowerrc" Line="1" Column="1" />
+      <File FileName="Pages/_Layout.cshtml" Line="46" Column="18" />
+      <File FileName="Pages/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/About.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TollRateBillboard" expanded="True">
+            <Node name="TollRateBillboard" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="About.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TollRateBillboard PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

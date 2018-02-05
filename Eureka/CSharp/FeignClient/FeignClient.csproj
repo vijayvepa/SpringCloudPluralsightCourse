@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageId>Libraries.Feign</PackageId>
+    <Authors>Vijay Vepakomma</Authors>
+    <Description>Feign client port for .net core</Description>
+    <PackageVersion>0.0.1</PackageVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.0" />
+  </ItemGroup>
+</Project>

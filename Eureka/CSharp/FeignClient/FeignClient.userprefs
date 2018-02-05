@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FeignClientAttribute.cs">
+    <Files>
+      <File FileName="FeignClientAttribute.cs" Line="14" Column="2" />
+      <File FileName="RequestMappingAttribute.cs" Line="1" Column="1" />
+      <File FileName="PathVariableAttribute.cs" Line="1" Column="1" />
+      <File FileName="RequestMethod.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FeignClient" expanded="True">
+            <Node name="FeignClient" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

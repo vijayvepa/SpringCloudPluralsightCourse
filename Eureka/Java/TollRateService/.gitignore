@@ -1,14 +1,5 @@
-**/.DS_Store
-.DS_Store/
-**/packages/
-**/bin/
-**/obj/
-
-
-
-.gradle
-/build/
-!gradle/wrapper/gradle-wrapper.jar
+target/
+!.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
 .apt_generated
@@ -26,8 +17,7 @@
 
 ### NetBeans ###
 nbproject/private/
-**/build/
-**/out/
+build/
 nbbuild/
 dist/
 nbdist/

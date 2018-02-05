@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageId>SpringCloudExamples.TollRateClient</PackageId>
+    <PackageVersion>0.0.1</PackageVersion>
+    <Description>TollRateClient package for consumption in web ui</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60">
+      <HintPath>..\..\..\..\..\.nuget\packages\microsoft.extensions.logging.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
+      <HintPath>..\..\..\..\..\.nuget\packages\newtonsoft.json\10.0.1\lib\netstandard1.3\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Steeltoe.Common, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\..\.nuget\packages\steeltoe.common\2.0.0-rc1\lib\netstandard2.0\Steeltoe.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Steeltoe.Common.Http, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\..\.nuget\packages\steeltoe.common.http\2.0.0-rc1\lib\netstandard2.0\Steeltoe.Common.Http.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Libraries.Feign" Version="0.0.1" />
+    <PackageReference Include="Steeltoe.Common" Version="2.0.0-rc1" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.1-beta3" />
+    <PackageReference Include="Steeltoe.Discovery.ClientCore" Version="2.0.0-rc1" />
+    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.0" />
+  </ItemGroup>
+</Project>
